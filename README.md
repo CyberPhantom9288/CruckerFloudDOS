@@ -13,3 +13,5 @@
 ```bash
 python crypshadow.py
 ```
+##⚠️ Disclaimer
+This tool is intended for educational and ethical testing only. Do not use CrypShadow on networks or systems without proper authorization. Misuse can lead to legal consequences.
