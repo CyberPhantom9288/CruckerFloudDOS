@@ -10,3 +10,6 @@
 - Live status code monitoring
 - Graceful exit and input validation
 - Works on **Kali Linux** and other Linux systems with Python
+```bash
+python crypshadow.py
+```
