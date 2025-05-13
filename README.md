@@ -10,6 +10,13 @@
 - Live status code monitoring
 - Graceful exit and input validation
 - Works on **Kali Linux** and other Linux systems with Python
+
+**Clone the repository:**
+
+To get started, clone the repository by running the following command:
+
+```bash
+git clone 
 ```bash
 python crypshadow.py
 ```
