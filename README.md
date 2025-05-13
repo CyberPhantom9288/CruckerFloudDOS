@@ -16,8 +16,7 @@
 To get started, clone the repository by running the following command:
 
 ```bash
-git clone 
-```bash
+git clone https://github.com/CrypShadow/CruckerFloudDOS.git 
 python crypshadow.py
 ```
 ⚠️ Disclaimer
