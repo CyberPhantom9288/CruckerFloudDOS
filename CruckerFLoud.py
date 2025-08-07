@@ -11,7 +11,7 @@ def print_logo():
  | |____| |  | |_| | (__|   <  __/ |    | | (_) | |_| | (_| |
   \_____|_|   \__,_|\___|_|\_\___|_|    |_|\___/ \__,_|\__,_|
 
-               Advanced Web Testing Tool by CrypShadow
+               Advanced Web Testing Tool by CyberPhantom9288
     """
     print(logo)
 
