@@ -60,12 +60,12 @@ def main():
     while True:
         url = input("\nEnter target URL (or type 'exit' to quit): ").strip()
         if url.lower() == "exit":
-            print("Exiting CrypShadow. Goodbye!")
+            print("Exiting CruckerFloud. Goodbye!")
             break
 
         method = input("HTTP Method (GET/POST or 'exit' to quit): ").strip().upper()
         if method == "EXIT":
-            print("Exiting CrypShadow. Goodbye!")
+            print("Exiting CruckerFloud. Goodbye!")
             break
         if method not in ['GET', 'POST']:
             print("Invalid HTTP method. Please enter GET or POST.")
@@ -79,7 +79,7 @@ def main():
         print("Type 'exit' to quit.")
         choice = input("Enter choice: ").strip()
         if choice.lower() == "exit":
-            print("Exiting CrypShadow. Goodbye!")
+            print("Exiting CruckerFloud. Goodbye!")
             break
 
         if choice == '1':
